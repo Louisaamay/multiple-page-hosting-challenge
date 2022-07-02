@@ -1,0 +1,23 @@
+body {
+  background-color: azure;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: red;
+}
+
+p {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  color: purple;
+  text-align: center;
+}
